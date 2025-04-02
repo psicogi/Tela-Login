@@ -1,4 +1,4 @@
-##Tela de Login utilizando HTML e CSS puro, à fim de trabalhar as Medias Queries e a responsividade em diversos aparelhos
+Tela de Login utilizando HTML e CSS puro, à fim de trabalhar as Medias Queries e a responsividade em diversos aparelhos
 
 Versão de Celular:
 
